@@ -10,13 +10,13 @@
 .footer {
   display: flex;
   padding: 2rem 0;
-  border-top: 1px solid #f01515;
+  border-top: 1px solid #3615f0;
   justify-content: center;
   align-items: center;
 }
 
 .image {
-  background-color: #04003e;
+  background-color: #5e08c64a;
   border-radius: 10%;
   width: 70%;
   height: 50%;
